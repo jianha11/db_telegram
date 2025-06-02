@@ -1,12 +1,6 @@
 {
-    "resellers": [],
-    "tokens": ["7220670102:AAE_gpjWtoL_m6Kv5WuxdSoOSHqXavwedjU"],
-    "owners": ["768995625"],
-    "admins": []
-}
-{
-    "resellers": ["7416474545"],
-    "tokens": ["8113138394:AAEeC5KOUfSayBrANAxt5-zr-cV4cbFk0pg"],
-    "owners": [],
+    "resellers": ["741674545"],
+    "tokens": ["8113138394:AAEc5KOUfSayBrANAx5t5r-zVc4cbFKpg", "722067:..edJu"],
+    "owners": ["768995625", "741674545"],
     "admins": []
 }
