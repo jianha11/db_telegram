@@ -1,23 +1,6 @@
 {
-  "resellers": [
-    "741674545",
-    "7688956225",
-    "7648023209",
-    ""
-  ],
-  "tokens": [
-    "8113138394:AAEc5KOUfSayBrANAx5t5r-zVc4cbFKpg",
-    "722067:..edJu",
-    "8131628924:AAFTQ9qVGVM58DRPm1V5OZ2SPmOhhTAutM0"
-  ],
-  "owners": [
-    "7688956225",
-    "741674545", 
-    ""
-  ],
-  "admins": [
-    "",
-    "7688956225",
-    "7648023209",
-  ]
+  "sellers": ["74164545", "768956225", "7648023209"],
+  "tokens": ["7220670102:AAE_gpjWtoL_m6Kv5WuxdSoOSHqXavwedjU", "8131628924:AAfTq9qGVMs8DRPm1v50Z2SPm0hnTautMO"],
+  "owners": ["768956225", "74164545"],
+  "admins": []
 }
