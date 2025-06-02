@@ -1,6 +1,16 @@
 {
-    "resellers": ["741674545"],
-    "tokens": ["8113138394:AAEc5KOUfSayBrANAx5t5r-zVc4cbFKpg", "722067:..edJu"],
-    "owners": ["768995625", "741674545"],
-    "admins": []
+  "resellers": [
+    "741674545"
+  ],
+  "tokens": [
+    "8113138394:AAEc5KOUfSayBrANAx5t5r-zVc4cbFKpg",
+    "722067:..edJu"
+  ],
+  "owners": [
+    "768995625",
+    "741674545"
+  ],
+  "admins": [
+    ""
+  ]
 }
