@@ -1,8 +1,12 @@
-[
-  {
-    "key": "7546990748:AAHXwGmOi-nqAlbxhPyeKsE6kJXtD1FollE",
-    "owner": "Jian",
-    "limit": "unlimited",
-    "id": "7688956225"
-  }
-]
+{
+    "resellers": [],
+    "tokens": ["754690748:AAHxwM0i-nqAlbxhPyek5zKXjTD1F0lE"],
+    "owners": ["768995625"],
+    "admins": []
+}
+{
+    "resellers": ["7416474545"],
+    "tokens": ["8113138394:AAEeC5KOUfSayBrANAxt5-zr-cV4cbFk0pg"],
+    "owners": [],
+    "admins": []
+}
