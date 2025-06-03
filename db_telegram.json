@@ -1,6 +1,17 @@
 {
-  "sellers": ["7688956225", "", ""],
-  "tokens": ["", ""],
-  "owners": ["7688956225", ""],
+  "sellers": [
+    "7688956225",
+    "",
+    ""
+  ],
+  "tokens": [
+    "",
+    "",
+    "7220670102:AAE_gpjWtoL_m6Kv5WuxdSoOSHqXavwedjU"
+  ],
+  "owners": [
+    "7688956225",
+    ""
+  ],
   "admins": []
 }
