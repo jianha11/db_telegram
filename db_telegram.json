@@ -1,8 +1,21 @@
 {
-  "resellers": ["123456789", "987654321"],
-  "tokens": ["7522463640:AAF8CDlm3uTrBUMhRT1s2APEixvZ37txk1Y", "token2:xyz789"],
-  "owners": ["7654517025"],
-  "admins": ["111222333"],
-  "blacklist": ["6142885267", "7275301558"]
+  "resellers": [
+    "123456789",
+    "987654321"
+  ],
+  "tokens": [
+    "7522463640:AAF8CDlm3uTrBUMhRT1s2APEixvZ37txk1Y",
+    "token2:xyz789"
+  ],
+  "owners": [
+    "7654517025"
+  ],
+  "admins": [
+    "111222333",
+    "7654517025"
+  ],
+  "blacklist": [
+    "6142885267",
+    "7275301558"
+  ]
 }
-
